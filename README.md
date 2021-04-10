@@ -21,5 +21,7 @@
 |<a href="" ><img src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" width="40px" height="40px" title="CSS"></a>
 |<a href="" ><img src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" width="40px" height="40px" title="HTML"></a>
 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+
 
 
