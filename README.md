@@ -9,7 +9,7 @@
 - :cowboy_hat_face: Flutter Enthusiast.
 - :sunglasses: Looking forward to contribute to open-source projects.
 
-:necktie: Technologies I use currently:
+- :necktie: Technologies I use currently:
 |<a href="" ><img src="https://i.imgur.com/t9qP4pO.png" width="40px" height="40px" title="Flutter"></a>
 |<a href="" ><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" width="40px" height="40px" title="Dart"></a>
 |<a href="" ><img src="http://assets.stickpng.com/images/58481791cef1014c0b5e4994.png" width="40px" height="40px" title="PHP"></a>
