@@ -1,4 +1,4 @@
-### Hello Fellow Cremate :fist_right::fist_left:
+### Hello Fellow Crewmate :fist_right::fist_left:
 
 <!--
 **ukirdeomkar/ukirdeomkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
