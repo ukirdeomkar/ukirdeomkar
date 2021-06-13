@@ -1,4 +1,4 @@
-## Hello, this is Omkar Ukirde a.k.a ( King_Clattanoia  )
+## Hello, this is Omkar Ukirde
 
 ### About Me:</b>
 
