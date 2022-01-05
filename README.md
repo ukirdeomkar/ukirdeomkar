@@ -5,7 +5,7 @@
 - a **full-stack developer** </br>
 - currently, learning and implementing Flutter and Dart.
 - looking to contribute to open-source projects.
-- working on some _exquisite_ open-source projects in 2021.
+- working on some _exquisite_ open-source projects in 2022.
 
 ###  Technologies I have worked with :
 
