@@ -6,9 +6,8 @@
 - Worked with LAMP stack (Linux , Apache , MySQL , PHP)
 - Worked on Laravel framework with PHP
 - currently, learning and implementing Machine Learning and Deep Learning Projects.
-- Worked with streamlit framework in Python
+- Worked with Django and streamlit framework in Python
 - looking to contribute to open-source projects.
-- working on some _exquisite_ projects in 2022.
 
 ###  Technologies I have worked with :
 
