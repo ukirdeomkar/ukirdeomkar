@@ -7,7 +7,6 @@
 - Worked on Laravel framework with PHP
 - currently, learning and implementing Machine Learning and Deep Learning Projects.
 - Worked with Django and streamlit framework in Python
-- looking to contribute to open-source projects.
 
 ###  Technologies I have worked with :
 
