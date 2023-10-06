@@ -3,11 +3,13 @@
 ### About Me:</b>
 
 - a **full-stack developer** </br>
+- 5 star in C++ on HackerRank
 - Worked with LAMP stack (Linux , Apache , MySQL , PHP)
 - Worked on Laravel framework with PHP
-- currently, learning and implementing Machine Learning and Deep Learning Projects.
-- Worked with Django and streamlit framework in Python
-- Learning ReactJS and MERN Stack 
+- Worked on Machine Learning and Deep Learning Projects.
+- Worked with Django and streamlit framework in Python.
+- Worked with ReactJS and MERN Stack.
+- Currently Learning .net Framework with C#.
 
 ###  Technologies I have worked with :
 
