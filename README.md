@@ -17,4 +17,4 @@
 | --- | ---|---|---|---|---|---|---|---|
 
 ###  Feel Free to Contact ME :
-<a href="https://www.linkedin.com/in/omkar-ukirde-a793361b6/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="LinkedIn" /></a> &nbsp;  <a href="https://stackoverflow.com/users/15596797/omkar-ukirde" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width=40px height=40px title="StackOverflow" /></a> &nbsp; <a href="https://twitter.com/King_Clattanoia" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/G7yTDHP.png" width=40px height=40px title="Twitter" /></a> &nbsp; 
+<a href="https://www.linkedin.com/in/omkar-ukirde-a793361b6/" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/kF9HMpz.png" width=40px height=40px title="LinkedIn" /></a> &nbsp;
