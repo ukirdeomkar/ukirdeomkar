@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Omkar Ukirder, I'm a full-stack developer passionate about building scalable and impactful applications.<br><br>🚀 Currently working at Sockosoft, a startup, since September 2023.<br>
+👋 Hi, I'm Omkar Ukirde, I'm a full-stack developer passionate about building scalable and impactful applications.<br><br>🚀 Currently working at Sockosoft, a startup, since September 2023.<br>
 <br>🛠️ Learning Ruby on Rails with TailwindCSS and Hotwire.<br><br>💡 Strong background in .NET (MVC & Web API) using C#.<br><br>⚙️ Hands-on experience with the LAMP stack and Laravel (PHP).<br><br>🧠 Built and deployed Machine Learning & Deep Learning projects.<br><br>🐍 Developed apps using Python with Django and Streamlit.<br><br>⚛️ Worked on ReactJS and full MERN stack applications.<br><br>📚 I enjoy learning new technologies, working on challenging problems, and contributing to meaningful projects.
 
 
